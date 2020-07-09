@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First HTML</title>
+  <meta charset="UTF-8">
+</head>
+<body style="background-color:powderblue;">
+
+<!-- This is a comment -->
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p>In HTML, spaces and new lines are ignored:</p>
+
+<p>
+
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+  
+  Oh, bring back my Bonnie to me.
+
+</p>
+
+<hr>
+
+<p>This is<br>a paragraph<br>with line breaks.</p>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+<p style="font-size:300%;">I am big too</p>
+<p style="font-size:160%;">I am medium</p>
+<p style="font-family:verdana;">This is a paragraph.</p>
+<p style="font-family:courier;">This is a paragraph.</p>
+<p style="text-align:center;">Centered paragraph.</p>
+<p><b>This text is bold.</b></p>
+<p><strong>This text is important!</strong></p>
+<p><i>This text is italic.</i></p>
+<p><em>This text is emphasized.</em></p>
+<p><small>This is some smaller text.</small></p>
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+<p>My favorite color is <del>blue</del> red.</p>
+<p>My favorite <ins>color</ins> is red.</p>
+<p>This is <sub>subscripted</sub> text.</p>
+<p>This is <sup>superscripted</sup> text.</p>
+<p>This is <q> text.</q></p>
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+<p><cite>The Scream</cite> by Edvard Munch.</p>
+
+<p>If your browser supports bi-directional override (bdo), the next line will be written from right to left (rtl):</p>
+<bdo dir="rtl">This line will be written from right to left</bdo>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html"> This is indented text.</blockquote>
+
+<address>
+Written by John Doe.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+<p>The alt attribute should reflect the image content, so users who cannot see the image gets an understanding of what the image contains:</p>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+<br><br>
+
+<button>Click me</button>
+
+<h2>An Unordered HTML List</h2>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
+<h2 title="I'm a header">The title Attribute</h2>
+<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+
+
+</body>
+</html>
